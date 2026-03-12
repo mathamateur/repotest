@@ -1,4 +1,4 @@
-# repotest
+# repositorytest
 
 
 A library for automating test execution and repository operations.
